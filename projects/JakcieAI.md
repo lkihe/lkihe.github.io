@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Jakcieai/aoe4icon.jpg
 title: "Jakcie AI"
 date: 2023
 published: true
