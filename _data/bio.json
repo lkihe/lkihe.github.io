@@ -16,20 +16,17 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows(10/11)", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -37,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Information and Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2019-08-10",
+      "startDate": "2022-08-10",
       "endDate": "Present",
       "courses": [
       ]
