@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - XmL
-summary: "Personal project to upgrade the AI for Age of Empires 4"
+summary: "Mod to upgrade the AI for Age of Empires 4"
 ---
 
 [Link to Jakcie AI (requires a microsoft login to view)](https://www.ageofempires.com/mods/details/169622/).
