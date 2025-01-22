@@ -9,3 +9,5 @@ labels:
   - XmL
 summary: "Personal project to upgrade the AI for Total War: Medieval 2"
 ---
+
+Total War: Medieval 2 is a game released in 2005 that 
