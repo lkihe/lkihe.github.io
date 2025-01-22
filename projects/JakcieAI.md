@@ -13,7 +13,9 @@ summary: "Mod to upgrade the AI for Age of Empires 4"
 [Link to Jakcie AI (requires a microsoft login to view)](https://www.ageofempires.com/mods/details/169622/).
 [Link to Jakcie AI forum](https://forums.ageofempires.com/t/jakcie-a-i-actual-ai-improvements/232879).
 
-In 2021, the game Age of Empires 4 released and was published by Microsoft. The game was good but what I felt was the worst part of the game was the game's official AI. It did not know how to use some of the mechanics, it was easy to break and exploit, the AI was flat out unable to play some of the factions at any level, and most of all, it was easy to beat in a match. The hardest AI in the game was comparable to a person who just started playing and wanted to win. Even though the developers released updates to make the AI play better I thought I could be able to improve it myself. So I made and shared my own mod for the game dedicated to only fixing and tweaking the AI to make it able to play better against a human and fix long standing bugs. 
+In 2021, the game Age of Empires 4 released and was published by Microsoft. In the game, players are tasked with creating a kingdom from almost nothing and fighting other players in fast paced but long games. Age of Empires 4 is a real time strategy game that requires both management and reactions to be the best.
+
+The game was good but what I felt was the worst part of the game was the game's official AI. It did not know how to use some of the mechanics, it was easy to break and exploit, the AI was flat out unable to play some of the factions at any level, and most of all, it was easy to beat in a match. The hardest AI in the game was comparable to a person who just started playing and wanted to win. Even though the developers released updates to make the AI play better I thought I could be able to improve it myself. So I made and shared my own mod for the game dedicated to only fixing and tweaking the AI to make it able to play better against a human and fix long standing bugs. 
 
 <img class="img-fluid" src="/img/Jakcieai/gameplay.jpg">
 
