@@ -4,7 +4,7 @@ type: project
 image: img/sourcemaps/hammericon.jpg
 title: "Source Maps (Hammer)"
 date: 2019
-published: false
+published: true
 labels:
   - Source
   - Source 2
