@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/sourcemaps/hammericon.jpg
 title: "Source Maps (Hammer)"
 date: 2019
 published: false
