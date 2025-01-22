@@ -3,14 +3,17 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Source Maps (Hammer)"
-date: 2024
+date: 2019
 published: false
 labels:
   - Source
   - Source 2
+  - Hammer
 summary: "Various projects to make maps for games in the source engine"
 ---
 
-Source
+Source is a video game engine created by Valve in 2004 to power and run mostly Valve made games. It includes a tool (Hammer) speicifcally made for making original maps or play spaces that you and other players can play in. In 2015, Source 2, the next iteration of the Source engine was released as new games were made with it and people (inckuding me) have used its version of Hammer with new technology to create new maps.
 
-It is antiquated and very limited in terms of technology and overall use.
+For years I have been making maps for various games in the Source engine and have published some 
+
+
