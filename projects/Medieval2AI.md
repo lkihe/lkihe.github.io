@@ -4,7 +4,7 @@ type: project
 image: img/medieval2/med2icon.jpg
 title: "Total War: Medieval 2 AI"
 date: 2024
-published: false
+published: true
 labels:
   - XmL
 summary: "Personal project to upgrade the AI for Total War: Medieval 2"
