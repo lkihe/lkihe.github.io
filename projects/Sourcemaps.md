@@ -19,7 +19,7 @@ Source is a video game engine created by Valve in 2004 to power and run mostly V
 
 <img class="img-fluid" src="/img/sourcemaps/street.jpg">
 
-For years I have been making maps for various games in the Source engine and have published some of them in the link above. I have been able to think of ways to in a way, make my own fun for myself and others in different ways.
+For years I have been making maps for various games in the Source engine and have published some of them in the link above. I have been able to think of ways to in a way, make my own fun for myself and others in different ways. It was also fun to learn how to use these tools as the skills in using them carry over to other 3D software (CADDING, etc.)
 
 <img class="img-fluid" src="/img/sourcemaps/havenone.jpg">
 
