@@ -21,6 +21,6 @@ The game was good but what I felt was the worst part of the game was the game's 
 
 I shared Jakcie AI to the wider Age of Empires 4 community on 2023 and have been updating the mod since to keep up with game updates and add small changes to further improve the AI. The mod currently stands with thousands of current downloads and I was able to gather a very small community of people on the game's forum to disscuss and anticipate the next time I update the mod.
 
-The mod is made up of XML files relating to how the ai reacts, directs their units and how important certain mechanics and units/buildings are.
+The mod is made up of XML files relating to how the ai reacts, directs their units and how important certain mechanics and units/buildings are. It was fun to learn more about XML and fine tuning the AI but I also learned how to interact with a small community as the head.
 
 <img class="img-fluid" src="/img/Jakcieai/JakcieAIThumnail.jpeg">
