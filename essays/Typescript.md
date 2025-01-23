@@ -14,6 +14,7 @@ labels:
 
 Recently in class, we have went into writing in Typescript. Typescript is a programming language used to make programs and apps. 
 
+
 ```typescript
 function greet(name: string): string {
   return `Hello, ${name}!`;
