@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="/img/essays/typescriptreflection/typescript.png">
 
 Recently in class, we have went into writing in Typescript. Typescript is a programming language used to make programs and apps. Personally, I have used Javascript (Typescript was based off of Javascript) way before this and while I was slightly confused on how to specifically write the code, or the syntax. I was not confused on what to do and how to accomplish my assignments.
 
