@@ -11,7 +11,7 @@ labels:
 
 <img class="img-fluid" src="/img/essays/learning/learning.jpg">
 
-*"(TOPIC) is hard but never impossible"*
+## *"(TOPIC) is hard but never impossible"*
 
 <p>
 I think it is easy to just say that, that everything can just be learned and automactially mastered as long as you put effort. But anybody who has ever even wanted to try to learn something can quickly say its not as easy as just "trying". Learning new things requires going to class, taking notes, watching videos, dedicating time out of your day to learn or do homework, even setting up certain things to get started. It is a huge commitment. 
