@@ -35,4 +35,4 @@ Both of them literally do the same thing, at least to the user, but are written 
 
 ## Did you find the practice WODs to be useful? What do you think about this style of learning?
 
-I think that doing the practice WOD was really fun. It was super easy as it was the first one but it was nice to be able to freely talk to others in my class about coding. The other ICS classes are mostly independent so this is a good change of pace. I liked talking to my groupmates and working together to solve the problem. 
+I think that doing the practice WOD was really fun. It was super easy as it was the first one but it was nice to be able to freely talk to others in my class about coding. The other ICS classes are mostly independent so this is a good change of pace. I liked talking to my groupmates and working together to solve the problem and I would like to do it again. 
