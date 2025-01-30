@@ -27,6 +27,7 @@ The Question is "How do I make the first letter of a string uppercase in JavaScr
 - The question about programming is posted in a programming forum (Stackoverflow)
 - The question is easy to understand (That also made the answer easy to find and understand too)
 - The question may have already been asked before but it is not a overly simple question that everyone should automatically know
+- The question includes helpful extra informaton such as code
 
 These points make the question good.
 
@@ -34,5 +35,18 @@ These points make the question good.
 
 Bad Questions are really funny to look at and disect. They are basically exact opposites of the good question above.
 
-# This is what I am talking about
+### This is what I am talking about
 <img class="img-fluid" src="/img/essays/questionessay/worstquestionever.png">
+
+The perfect example of a bad question
+- The question is super unclear (array news? new news? what is news?)
+- No extra code to show what he is even programming
+- The topic is not even a question
+- Extra information is not helpful (important football website)
+- Unfortunate, but the fact that he does not type english well also makes it less readable
+
+The people who actually want to answer and help people on stack overflow want easily readable questions that makes it easy to see the problem and thus makes it easy to make up a solution. The previous question was clear adn thus had a clear answer. This one just had a ton of people questioning what is even happening.
+
+### Why is Knowing What a Good Question is Important
+
+The answer to that one is very simple. Being able to ask good questions would make you able to clearly and effectively explain where you have trouble, and teachers or forum users can easily answer you can possible givey you solution to problems that wyou would normally never solve. Being able to give a good question can potentially give you a key to be able to get answers on not only software developemnt and programming but in pretty much every topic ever.
