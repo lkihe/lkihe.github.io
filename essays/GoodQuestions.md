@@ -22,4 +22,12 @@ This question is complicated. A good question has a lot of factors in it that ma
 
 The Question is "How do I make the first letter of a string uppercase in JavaScript?" and it has everything needed to make a good question.
 
-- First
+- The question about programming is posted in a programming forum (Stackoverflow)
+- The question is easy to understand
+- The question may have already been asked before but it is not a overly simple question that everyone should automatically know
+
+These points make the question good.
+
+## The Fun Part
+
+Bad Questions, 
