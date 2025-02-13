@@ -43,7 +43,7 @@ Yes, of course putting a space between the parentheses and curly brace is *neede
 
 I understand this though in a way, being able to have a uniform way of coding for the sake of having things be easily readable is perfectly fine. But there is one specific rule that wastes my time the most that I absolutely don't understand.
 
-## 2 spaces vs tab
+## 2 Spaces v.s Tab
 
 When I code, I press tab to indent so that I can more easily read my code. This works with others as well, as pressing one button per indent is enough for others to see the amount of space being made. So why in this coding standard is it required to have two spaces per indent instead?
 
