@@ -58,3 +58,7 @@ function func() {
 ```
 
 I don't even think there is a difference between the two when you glace at code, but one method of indenting requires *200%* of the effort to do. Why do I need to double space? It is statistically more viable to instead use tab, but the standard does not want you to do that.
+
+I searched up the reason for why the coding standard is two spaces. It is *"To make indents uniform across all IDEs as tab would have differing amount of space made depending on the IDE being used"* (my own quote). To that I say first of all, fix your tabs then and also, I have to indent almost every line I make. Why would I want to use the 2 button method instead of 1?
+
+Maybe one day I would need to use a primitive IDE that does not use tab, one day the tab button may not even exist but for now, I will complain and would probably always complain about this standard.
