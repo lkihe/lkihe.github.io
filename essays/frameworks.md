@@ -34,4 +34,4 @@ In fact, it is like all hobbies and skills. There is always that brick wall that
 
 I appreciate what Bootstrap was able to give me. Next week, we will be learning and using react. With react we would be able to do even more complex things when it comes to creating sites and I can't wait to use it.
 
-<img class="img-fluid" src="/img/essays/frameworks/react.png">
+<img class="img-fluid" src="/img/essays/frameworks/react.jpg">
