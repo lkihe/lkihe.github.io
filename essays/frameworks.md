@@ -10,10 +10,17 @@ labels:
   - Frameworks
 ---
 
-This week, I was able to learn how to create a site using a UI framework called bootstrap. Aparently its really old and theres better things I can use anyways but dispite that, I think its a very nice tool to add complexity and cool things to a site.
+This week, I was able to learn how to create a site using html and a UI framework called bootstrap 5. Aparently its really old and theres better things I can use anyways but dispite that, I think its a very nice tool to add complexity and cool things to a site.
 
-In fact, in a recent assignment I did, I was able to recreate the Hawaii DMV site
-<img class="img-fluid" src = "img/essays/frameworks/original.png">
+In fact, in a recent assignment I did, I was able to recreate the Hawaii DMV site.
+
+# Original
+<img class="img-fluid" src="/img/essays/frameworks/original.png">
+
+# Recreation
+<img class="img-fluid" src="/img/essays/frameworks/remake.png">
+
+## What is a UI Framework?
 
 A UI framework, in terms of making a site is a tool that Developers use to help in the creation of making web sites. They do that by basically giving developers shortcuts to making the more complex aspects of websites. For example I was able to use the Bootstrap framework to easily create different types of things for my website such as icons or different kinds of buttons. It is really useful but I see people confuse the reason why these things are important.
 
