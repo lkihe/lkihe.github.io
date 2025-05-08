@@ -9,7 +9,7 @@ labels:
   - Learning
   - AI
 ---
-<img class="img-fluid" src="/img/essays/AI/pic1.jpeg">
+<img class="img-fluid" src="/img/essays/AI/pic1.jpg">
 ## What is AI and what am I doing?
 Honestly I thought you would know AI. Any student knows what AI is. It is such an easy to use and versitile *thing* that has ever been made for all sorts of people to use. Having a sort of easy to use and annonymous *person* who can be abl to answer any question to even a slight degree of accuracy is super useful, but sometimes I get worried when I keep using the AI to try and help me with problems. I feel as if as a programmer, I fail to maintain a knowledgebase of what to secifically type, especially when I look back at my code and realise that I don't know what I just wrote because half of it was written by AI. Worst part is that now there is a bug... for that, just use the AI...
 
@@ -24,7 +24,7 @@ The amazing part of AI is that for the topic of how it harms learning, you get t
 ## Practicallity of AI
 I think practicallity is subjective. Again you can technically solve every problem by constantly shoving information in the AI until it spits out a right answer, when you think about its super practical. Absolutely no thought to solve a problem. Maybe it would take a lot of time but its possible. Maybe make a automation to do the prompting constantly until the code solves a unit test. But really, AI can really help any programmer. If you only want it to clean up your mess of code, you can. If you want it to show you what you want to have added it can. If you want it to debug for you it can. All of those things can be done seperate or together if you want. This tool is super practical for any topic, just becuase if you want to problem solve, ai will be there in every step of the way, and you can include or not include them if you want to.
 
-<img class="img-fluid" src="/img/essays/AI/pic2.jpeg">
+<img class="img-fluid" src="/img/essays/AI/pic2.jpg">
 
 ## The future of AI
 There is no doubt, AI will be in the future. Maybe it will be more or less relevant or scary to people, but one fact is that it will stay. It is too good of a tool to phase out. But what people should pay attention to with AI is how much they need it. A man who fundementaly understands their topic is always in the long run better than a person who constantly brute forces problems using AI. People should learn how to not use AI so that they can effectively use the AI. How can you do that without simply going to google and searching up the answer yourself. That requires self development and restraint. A person who both uses AI to fix small mistakes and errors and actually know their topic can be the most effecient and effective worker. It just needs to be made.
