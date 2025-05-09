@@ -25,3 +25,6 @@ I tracked my actual effort by simply recalling and typing in how long I thought 
 I personally did not take a ton of time to keep track of my effort. Every milestone, our team would report our own progress and put it down on our project board. Maybe we could’ve spent more time keeping track of how long we worked on the project with timers and making sure we are consistent with how we estimate and return our total times but I know that would take more time out of working on the actual project. Overall this did not take as much time as we expected, maybe an extra 10-30 minutes of time at the end of every milestone to input and talk about what to do about this assignment but other than that it did not take a ton of time.
 
 <img class="img-fluid" src="/img/essays/ec/ecpic2.png">
+
+
+<a href="https://docs.google.com/spreadsheets/d/1DB_z4fINnAfi1pOJHy_gKNd-wFXipaQx1bOGX2TMvLQ/edit?usp=sharing" target="_blank">Link to Spreadsheet</a>
