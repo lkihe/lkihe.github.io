@@ -10,7 +10,7 @@ labels:
   - 314 Project
 ---
 
-<img class="img-fluid" src="/img/essays/ec/ecpic1.jpg">
+<img class="img-fluid" src="/img/essays/ec/ecpic1.png">
 
 For my 314 class, me and my group made a website, it involved use learning how to plan using Github organizations, work with NextJS, Vercel, and learning about databases both locally and online. We learned a lot but we also decided to do the extra credit assignment about keeping tracking of how long we worked on the various issues we solved for ourselve in the project. This is the questions and my thoughts about hte process.
 ## How did you make your effort estimates?
@@ -24,4 +24,4 @@ I tracked my actual effort by simply recalling and typing in how long I thought 
 ## How much overhead was there in tracking your effort? Did it take up a noticeable amount of time or inhibit you working on the project?
 I personally did not take a ton of time to keep track of my effort. Every milestone, our team would report our own progress and put it down on our project board. Maybe we could’ve spent more time keeping track of how long we worked on the project with timers and making sure we are consistent with how we estimate and return our total times but I know that would take more time out of working on the actual project. Overall this did not take as much time as we expected, maybe an extra 10-30 minutes of time at the end of every milestone to input and talk about what to do about this assignment but other than that it did not take a ton of time.
 
-<img class="img-fluid" src="/img/essays/ec/ecpic2.jpg">
+<img class="img-fluid" src="/img/essays/ec/ecpic2.png">
