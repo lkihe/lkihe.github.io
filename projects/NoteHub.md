@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/notehub/Screenshot 2025-05-10 130647.png
+image: img/notehub/Screenshot 2025-05-10 130647 (1).png
 title: "Notehub Manoa"
 date: 2025
 published: true
