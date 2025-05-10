@@ -10,6 +10,7 @@ labels:
   - 314
 ---
 <img class="img-fluid" src="/img/essays/reflection314/designpattern.jpg">
+
 This semester from January to May, I took the ICS 314 class at the University of Hawaii at Manoa. I feel as if I have learned a ton about the actual process in programming. Not only did I learn how creating a website works but I even learned about managing and working in a programming project. 
 
 There is so much I can talk about when it comes to this sort of upper level programming. Personally I never really cared about things like design patterns, and focusing on what framework I'm using, or how I am following coding standards or how I manage projects. I would take what I need for my assignments and little projects but because I never really tried to make a website or participated in a group setting I never really cared about how I coded. If it worked, it was enough. This class however, especially when it came to working on the final project, I learned how to use github as an organization, and using NextJS, Vercel and databases from scratch and with a final project goal in mind. It was really polarizing to use and learn all of those concepts.
