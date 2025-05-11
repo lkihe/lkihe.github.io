@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning new things and making it fun"
+title: "Projects and Time Managment"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
 published: true
