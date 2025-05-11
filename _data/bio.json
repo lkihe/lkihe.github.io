@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "lkihe", "url": "http://github.com/lkihe" },
-      { "network": "linkedin", "username": "Landon Kihe", "url": "https://www.linkedin.com/in/landon-kihe-5b4449243/" },
-      { "network": "DNE", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "DNE", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Landon Kihe", "url": "https://www.linkedin.com/in/landon-kihe-5b4449243/" }
     ]
   },
   "interests": [
@@ -23,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "HTML", "NextJS" ]
     },
     {
       "name": "Toolsets/OS",
